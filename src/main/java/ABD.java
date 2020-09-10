@@ -8,5 +8,10 @@ public class ABD {
         System.out.println("sss");
         System.out.println("sss");
         System.out.println("sss");
+        System.out.println("sss");
+        System.out.println("sss");
+        System.out.println("sss");
+        System.out.println("sss");
+        System.out.println("sss");
     }
 }
